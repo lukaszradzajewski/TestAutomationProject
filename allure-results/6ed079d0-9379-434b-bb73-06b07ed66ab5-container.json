@@ -1,0 +1,1 @@
+{"uuid":"6ed079d0-9379-434b-bb73-06b07ed66ab5","name":"Gradle suite","children":["a45aa7d7-6371-4036-a39a-8c39c2c0d593"],"befores":[],"afters":[{"name":"Teardown Test Suite","status":"passed","stage":"finished","description":"Teardown Test Suite","steps":[],"attachments":[],"parameters":[],"start":1717671121955,"stop":1717671122027}],"start":1717671107575,"stop":1717671122027}
